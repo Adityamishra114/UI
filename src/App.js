@@ -104,7 +104,7 @@ const MainContainer = styled.div`
   flex-direction: column;
   height: 80vh;
   width: 30vw;
-  background: rgba(209, 209, 224, 0.15);
+  background: linear-gradient(to right, #14373c 0%, #020b26 79%);
   box-shadow: 0 8px 32px 0 rgba(32, 38, 140, 0.37);
   border-radius: 10px;
   color: #ffffff;
